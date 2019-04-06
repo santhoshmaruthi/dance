@@ -1,2 +1,2 @@
-more dancing what the fish
+more dancing what then fish
 using this file to understand how to create a branch and pull request on commit
